@@ -46,6 +46,10 @@ AI-optimized MIDI converter that translates MIDI files into a human-readable tex
 Real-time Twitch channel points alert system with video overlays and AI text-to-speech. WebSocket-based browser source for OBS with queue management, layout modes, and synchronized audio-driven animations.
 > **Stack:** Node.js · Express · Socket.io · Twurple · ElevenLabs
 
+#### [PrismaSprite](https://prisma.mschwarz.dev)
+Pixel art recolor tool that extracts a sprite's palette and lets you remap colors via HSL sliders, lightness-mapped presets, or by piping the palette through any LLM. Live preview, batch variants, PNG export.
+> **Stack:** Vue 3 · TypeScript · Vite · Tailwind · Canvas API
+
 More projects on [mschwarz.dev](https://mschwarz.dev)
 
 ---
