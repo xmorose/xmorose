@@ -17,17 +17,17 @@ Open for freelance & contract work
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,angular,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,angular,ts,js,tailwind,html,css" height="36" />
 </p>
 
 **Backend & Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,graphql,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,graphql,mongodb,mysql,redis" height="36" />
 </p>
 
 **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,maven,gradle" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,maven,gradle" height="36" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ Open for freelance & contract work
 A high-performance web platform for browsing and playing tens of thousands of Minecraft sounds across all versions. Real-time audio playback with pitch shifting, mixing, advanced filtering, and virtual scrolling for handling massive datasets.
 > **Stack:** Vue.js · Tailwind CSS · Web Audio API · Virtual Scrolling
 
-#### Midas
+#### [Midas](https://morose.dev/projects/midas/)
 AI-optimized MIDI converter that translates MIDI files into a human-readable text format and back. Lets AI models understand, generate, and manipulate musical compositions with full support for tempo, time signatures, and multi-track files.
 > **Stack:** JavaScript · MIDI.js · Web Audio API
 
