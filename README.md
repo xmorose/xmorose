@@ -7,6 +7,7 @@ Fullstack developer from Hamburg, focused on frontend.<br>
 
 <p align="center">
 <a href="https://mschwarz.dev">mschwarz.dev</a> &nbsp;·&nbsp;
+<a href="https://schwarz.software">schwarz.software</a> &nbsp;·&nbsp;
 <a href="mailto:hello@mschwarz.dev">hello@mschwarz.dev</a> &nbsp;·&nbsp;
 Open for freelance & contract work
 </p>
