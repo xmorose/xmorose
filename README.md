@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Marvin</h1>
 
 <p align="center">
-Fullstack developer from Hamburg, focused on frontend.<br>
-6+ years of experience building web apps, side projects, and everything in between.
+Fullstack developer from Hamburg.<br>
+6+ years building web apps — these days more of the backend and integration side: APIs, plugins, self-hosted tooling.
 </p>
 
 <p align="center">
@@ -34,6 +34,14 @@ Open for freelance & contract work
 ---
 
 ### Featured Projects
+
+#### Spindle
+Self-hosted listening stats for a Navidrome music server — Last.fm / Spotify-Wrapped style, except the history and data stay yours. A Rust/WASM scrobble plugin feeds a Fastify + SQLite backend that computes the stats on the fly, served through a Vue dashboard that recolors itself from your recent cover art — hand-rolled SVG charts, a built-in player streamed straight from Navidrome, and a Spotify history importer.
+> **Stack:** Rust/WASM · TypeScript · Fastify · SQLite · Vue 3 · Tailwind
+
+#### [warpedcommissions](https://github.com/xmorose/warpedcommissions)
+NPC-driven daily commission system for Paper Minecraft servers. Players take rolling item-collection jobs and trade them for currency, with friendship tiers, streaks and milestone rewards layered on top. Event-driven, YAML persistence, integrates with Vault and PlaceholderAPI.
+> **Stack:** Java 21 · Paper API · Gradle
 
 #### [MinecraftSounds](https://minecraftsounds.com)
 A high-performance web platform for browsing and playing tens of thousands of Minecraft sounds across all versions. Real-time audio playback with pitch shifting, mixing, advanced filtering, and virtual scrolling for handling massive datasets.
