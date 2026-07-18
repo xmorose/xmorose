@@ -2,7 +2,7 @@
 
 <p align="center">
 Fullstack developer from Hamburg.<br>
-6+ years building web apps — these days more of the backend and integration side: APIs, plugins, self-hosted tooling.
+7+ years building web apps — these days more of the backend and integration side: APIs, plugins, self-hosted tooling.
 </p>
 
 <p align="center">
