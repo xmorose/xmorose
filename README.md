@@ -35,7 +35,7 @@ Open for freelance & contract work
 
 ### Featured Projects
 
-#### Spindle
+#### [Spindle](https://github.com/xmorose/spindle)
 Self-hosted listening stats for a Navidrome music server — Last.fm / Spotify-Wrapped style, except the history and data stay yours. A Rust/WASM scrobble plugin feeds a Fastify + SQLite backend that computes the stats on the fly, served through a Vue dashboard that recolors itself from your recent cover art — hand-rolled SVG charts, a built-in player streamed straight from Navidrome, and a Spotify history importer.
 > **Stack:** Rust/WASM · TypeScript · Fastify · SQLite · Vue 3 · Tailwind
 
