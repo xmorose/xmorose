@@ -8,8 +8,7 @@ Fullstack developer from Hamburg.<br>
 <p align="center">
 <a href="https://mschwarz.dev">mschwarz.dev</a> &nbsp;·&nbsp;
 <a href="https://schwarz.software">schwarz.software</a> &nbsp;·&nbsp;
-<a href="mailto:hello@mschwarz.dev">hello@mschwarz.dev</a> &nbsp;·&nbsp;
-Open for freelance & contract work
+<a href="mailto:hello@mschwarz.dev">hello@mschwarz.dev</a>
 </p>
 
 ---
@@ -74,11 +73,11 @@ More projects on [mschwarz.dev](https://mschwarz.dev)
 - **Audio on the web** — Web Audio API, MIDI, sound libraries
 - **Server setup & maintenance** — Linux, Docker, Kubernetes
 
-Open to pretty much anything web-related, or not i don't really care as long as it's interesting. If you've got something weirder or more niche, even better.
+Mostly web-related stuff, but honestly i don't really care as long as it's interesting. The weirder and more niche, the better.
 
 ---
 
 <p align="center">
-  <i>If you've got a project, an idea, or just want to chat, just write a mail!</i><br>
+  <i>If you want to talk about any of this, just write a mail!</i><br>
   <a href="mailto:hello@mschwarz.dev">hello@mschwarz.dev</a>
 </p>
